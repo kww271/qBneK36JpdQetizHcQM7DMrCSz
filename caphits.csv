@@ -13,7 +13,7 @@ Sergei Bobrovsky G,4 UFA,"NMC","G",NHL,33,10.0,10.0,10.0,10.0,UFA,,0,592,592,Fal
 Anze Kopitar C,2 UFA,"M-NTC","C",NHL,34,10.0,10.0,UFA,,,,,,,False
 Tyler Seguin C,5 UFA,"NMC","C, RW",NHL,30,9.85,9.85,9.85,9.85,9.85,UFA,,,,False
 Erik Karlsson D,5 UFA,"NMC","RD",NHL,32,9.775,9.775,9.775,9.775,9.775,UFA,,,,False
-Johnny Gaudreau LW,7 UFA,"NMC","LW",NHL,28,9.75,9.75,9.75,9.75,9.75,9.75,,,,False
+Johnny Gaudreau LW,7 UFA,"NMC","LW",NHL,29,9.75,9.75,9.75,9.75,9.75,9.75,,,,False
 Matthew Tkachuk LW,8 UFA,"","LW, RW",NHL,24,9.5,9.5,9.5,9.5,9.5,9.5,0,431,431,False
 Brayden Point C,8 UFA,"","C, RW",NHL,26,9.5,9.5,9.5,9.5,9.5,9.5,0,417,417,False
 Andrei Vasilevskiy G,6 UFA,"NMC","G",NHL,28,9.5,9.5,9.5,9.5,9.5,9.5,0,365,365,False
@@ -28,7 +28,7 @@ Jeff Skinner LW,5 UFA,"NMC","LW, RW",NHL,30,9.0,9.0,9.0,9.0,9.0,UFA,,,,False
 Kirill Kaprizov LW,4 UFA,"","LW, RW",NHL,25,9.0,9.0,9.0,9.0,UFA,,0,136,136,False
 Patrik Laine LW,4 UFA,"","LW, RW",NHL,24,8.7,8.7,8.7,8.7,UFA,,0,407,407,False
 Sidney Crosby C,3 UFA,"NMC","C",NHL,35,8.7,8.7,8.7,UFA,,,,,,False
-Filip Forsberg LW,8 UFA,"NMC","LW",NHL,27,8.5,8.5,8.5,8.5,8.5,8.5,,,,False
+Filip Forsberg LW,8 UFA,"NMC","LW",NHL,28,8.5,8.5,8.5,8.5,8.5,8.5,,,,False
 Mika Zibanejad C,8 UFA,"NMC","C",NHL,29,8.5,8.5,8.5,8.5,8.5,8.5,,,,False
 Leon Draisaitl C,3 UFA,"M-NTC, NMC","C, LW",NHL,26,8.5,8.5,8.5,UFA,,,,,,False
 Steven Stamkos RW,2 UFA,"NMC","RW, C, LW",NHL,32,8.5,8.5,UFA,,,,,,,False
@@ -242,7 +242,7 @@ Viktor Arvidsson RW,2 UFA,"","RW, LW",NHL,29,4.25,4.25,UFA,,,,0,451,451,False
 Anthony Deangelo D,2 UFA,"","RD",NHL,26,4.25,4.25,UFA,,,,0,270,270,False
 TJ Brodie D,2 UFA,"NTC","LD/RD",NHL,32,4.25,4.25,UFA,,,,,,,False
 Noah Hanifin D,2 UFA,"M-NTC","LD",NHL,25,4.2075,4.2075,UFA,,,,,,,False
-Carter Verhaeghe LW,3 UFA,"","LW, C",NHL,26,4.166667,4.166667,4.166667,UFA,,,0,173,173,False
+Carter Verhaeghe LW,3 UFA,"","LW, C",NHL,27,4.166667,4.166667,4.166667,UFA,,,0,173,173,False
 Anthony Beauvillier LW,2 UFA,"","LW, RW",NHL,25,4.15,4.15,UFA,,,,0,408,408,False
 Michael Matheson D,4 UFA,"M-NTC","LD",NHL,28,4.14375,4.14375,4.14375,4.14375,UFA,,,,,False
 Jonathan Bernier G,1 UFA,"","G",IR,34,4.125,UFA,,,,,0,404,404,False
@@ -255,7 +255,7 @@ Nino Niederreiter LW,2 UFA,"","LW, RW",NHL,29,4.0,4.0,UFA,,,,0,732,732,False
 Jack Roslovic C,2 UFA,"","C, RW",NHL,25,4.0,4.0,UFA,,,,0,309,309,False
 Ilya Sorokin G,2 UFA,"","G",NHL,27,4.0,4.0,UFA,,,,0,74,74,True
 Jake DeBrusk LW,2 UFA,"","LW, RW",NHL,25,4.0,4.0,UFA,,,,0,321,321,False
-Carter Hart G,2 RFA,"","G",NHL,23,3.979,3.979,RFA,,,,0,146,146,False
+Carter Hart G,2 RFA,"","G",NHL,24,3.979,3.979,RFA,,,,0,146,146,False
 Travis Sanheim D,1 UFA,"","LD",NHL,26,3.97375,UFA,,,,,0,335,335,False
 Jamie Oleksiak D,4 UFA,"NTC","LD/RD",NHL,29,3.91,3.91,3.91,3.91,UFA,,,,,False
 Jakob Chychrun D,3 UFA,"","LD/RD",NHL,24,3.91,3.91,3.91,UFA,,,0,337,337,False
@@ -443,7 +443,7 @@ Matthew Beniers C,2 RFA,"ELC","C",NHL,19,1.85,1.85,RFA,,,,,,,True
 Kent Johnson C,2 RFA,"ELC","C, LW",NHL,19,1.85,1.85,RFA,,,,,,,True
 Jake Sanderson D,2 RFA,"ELC","LD",NHL,20,1.813333,1.813333,RFA,,,,,,,True
 Jordan Martinook RW,2 UFA,"","RW, LW",NHL,30,1.8,1.8,UFA,,,,0,477,477,False
-Casey DeSmith G,2 UFA,"","G",NHL,30,1.8,1.8,UFA,,,,0,96,96,False
+Casey DeSmith G,2 UFA,"","G",NHL,31,1.8,1.8,UFA,,,,0,96,96,False
 Eric Comrie G,2 UFA,"","G",NHL,27,1.8,1.8,UFA,,,,0,28,28,True
 Isac Lundestrom C,2 RFA,"","C, LW",NHL,22,1.8,1.8,RFA,,,,0,151,151,False
 Andrei Kuzmenko LW,1 UFA,"ELC","LW",NHL,26,1.8,UFA,,,,,,,,True
@@ -582,6 +582,7 @@ Xavier Bourgault C,3 RFA,"ELC","C",Minor,19,1.1675,1.1675,1.1675,RFA,,,,,,True
 Sam Lafferty C,2 UFA,"","C, LW",NHL,27,1.15,1.15,UFA,,,,0,140,140,False
 Riley Stillman D,2 RFA,"","LD",NHL,24,1.1475,1.1475,RFA,,,,0,108,108,False
 Jordan Oesterle D,1 UFA,"","LD/RD",NHL,30,1.1475,UFA,,,,,0,297,297,False
+Caleb Jones D,1 RFA,"","LD",NHL,25,1.1475,RFA,,,,,0,144,144,False
 Ronnie Attard D,1 RFA,"ELC","RD",NHL,23,1.1475,RFA,,,,,,,,True
 Bobby Brink RW,2 RFA,"ELC","RW",NHL,21,1.1375,1.1375,RFA,,,,,,,True
 Adam Scheel G,1 RFA,"ELC","G",Minor,23,1.1375,RFA,,,,,0,0,0,True
@@ -612,7 +613,7 @@ Fabian Lysell RW,3 RFA,"ELC","RW",Junior,19,1.065,1.065,1.065,RFA,,,,,,True
 Matthew Benning D,4 UFA,"","RD",NHL,28,1.0625,1.0625,1.0625,1.0625,UFA,,0,366,366,False
 Troy Stecher D,1 UFA,"","RD",NHL,28,1.0625,UFA,,,,,0,359,359,False
 Rasmus Kupari C,1 RFA,"ELC","C, LW, RW",NHL,22,1.050833,RFA,,,,,,,,True
-Logan O'Connor RW,3 UFA,"","RW, LW",NHL,25,1.05,1.05,1.05,UFA,,,0,124,124,False
+Logan O'Connor RW,3 UFA,"","RW, LW",NHL,26,1.05,1.05,1.05,UFA,,,0,124,124,False
 Daniil Tarasov G,3 RFA,"","G",IR,23,1.05,1.05,1.05,RFA,,,0,4,4,True
 Steven Lorentz RW,2 UFA,"","RW, C, LW",NHL,26,1.05,1.05,UFA,,,,0,112,112,False
 Joel Kiviranta LW,1 UFA,"","LW, RW",NHL,26,1.05,UFA,,,,,0,93,93,False
@@ -628,7 +629,7 @@ Connor Zary C,3 RFA,"ELC","C",Minor,20,1.005,1.005,1.005,RFA,,,,,,True
 Philip Tomasino RW,2 RFA,"ELC","RW, C",NHL,21,1.005,1.005,RFA,,,,,,,True
 Wyatt Johnston C,3 RFA,"ELC","C",Junior,19,1.000417,1.000417,1.000417,RFA,,,,,,True
 Curtis Lazar C,3 UFA,"","C, RW",NHL,27,1.0,1.0,1.0,UFA,,,0,404,404,False
-Scott Wedgewood G,2 UFA,"","G",NHL,29,1.0,1.0,UFA,,,,0,77,77,True
+Scott Wedgewood G,2 UFA,"","G",NHL,30,1.0,1.0,UFA,,,,0,77,77,True
 Samuel Montembeault G,2 UFA,"","G",NHL,25,1.0,1.0,UFA,,,,0,63,63,True
 Patrick Maroon LW,2 UFA,"M-NTC","LW, RW",NHL,34,1.0,1.0,UFA,,,,,,,False
 Trevor Lewis RW,1 UFA,"35+","RW",NHL,35,1.0,UFA,,,,,,,,False
@@ -640,7 +641,7 @@ Dylan Samberg D,1 RFA,"ELC","LD",NHL,23,0.99875,RFA,,,,,,,,True
 Ryan Merkley D,1 RFA,"ELC","RD",NHL,21,0.988833,RFA,,,,,,,,True
 Justin Barron D,2 RFA,"ELC","RD",NHL,20,0.984583,0.984583,RFA,,,,,,,True
 Justin Danforth RW,2 UFA,"","RW, C",NHL,29,0.975,0.975,UFA,,,,0,45,45,True
-Jujhar Khaira C,1 UFA,"","C, LW",IR,27,0.975,UFA,,,,,0,285,285,False
+Jujhar Khaira C,1 UFA,"","C, LW",IR,28,0.975,UFA,,,,,0,285,285,False
 Michael Mcleod C,1 RFA,"","C",NHL,24,0.975,RFA,,,,,0,162,162,False
 Jakub Zboril D,2 UFA,"","LD/RD",NHL,25,0.966875,0.966875,UFA,,,,0,54,54,True
 Jordan Harris D,1 RFA,"ELC","LD",NHL,22,0.966875,RFA,,,,,,,,True
@@ -921,7 +922,7 @@ Braeden Kressler C,3 RFA,"ELC","C",Junior,19,0.821111,0.821111,0.821111,RFA,,,,,
 Carson Lambos D,3 RFA,"ELC","LD",Junior,19,0.82025,0.82025,0.82025,RFA,,,,,,True
 Martin Chromiak RW,3 RFA,"ELC","RW",Junior,19,0.82,0.82,0.82,RFA,,,,,,True
 Matthew Rempe C,3 RFA,"ELC","C",Junior,20,0.82,0.82,0.82,RFA,,,,,,True
-Leevi Merilainen G,3 RFA,"ELC","G",Junior,19,0.82,0.82,0.82,RFA,,,0,0,0,True
+Leevi Merilainen G,3 RFA,"ELC","G",Junior,20,0.82,0.82,0.82,RFA,,,0,0,0,True
 Timur Ibragimov LW,1 RFA,"ELC","LW",Minor,21,0.82,RFA,,,,,,,,True
 Ty Voit LW,3 RFA,"ELC","LW",Junior,19,0.817778,0.817778,0.817778,RFA,,,,,,True
 Milos Kelemen RW,2 RFA,"ELC","RW",Minor,23,0.8175,0.8175,RFA,,,,,,,True
@@ -965,7 +966,7 @@ Collin Adams LW,1 RFA,"ELC","LW",Minor,24,0.8,RFA,,,,,,,,True
 Julien Gauthier RW,1 RFA,"","RW",NHL,24,0.8,RFA,,,,,0,96,96,False
 Morgan Frost C,1 RFA,"","C",NHL,23,0.8,RFA,,,,,0,77,77,True
 Nicholas Robertson LW,2 RFA,"ELC","LW",Minor,20,0.796667,0.796667,RFA,,,,,,,True
-Paul Cotter C,1 RFA,"ELC","C",Minor,22,0.796667,RFA,,,,,,,,True
+Paul Cotter C,4 RFA,"ELC","C",Minor,22,0.796667,0.775,0.775,0.775,RFA,,,,,True
 Arturs Silovs G,2 RFA,"ELC","G",Minor,21,0.796111,0.796111,RFA,,,,0,0,0,True
 Maxim Golod LW,1 RFA,"ELC","LW",Minor,21,0.793333,RFA,,,,,,,,True
 Luke Henman C,2 RFA,"ELC","C",Minor,22,0.791667,0.791667,RFA,,,,,,,True
@@ -1067,6 +1068,7 @@ Roman Schmidt D,3 RFA,"ELC","RD",Minor,19,0.767125,0.767125,0.767125,RFA,,,,,,Tr
 Jack Thompson D,3 RFA,"ELC","RD",Junior,20,0.767125,0.767125,0.767125,RFA,,,,,,True
 Kevin Bahl D,1 RFA,"ELC","LD",Minor,22,0.767125,RFA,,,,,,,,True
 Logan Thompson G,3 UFA,"","G",Minor,25,0.766667,0.766667,0.766667,UFA,,,0,20,20,True
+Jake Leschyshyn C,3 RFA,"","C",Minor,23,0.766667,0.766667,0.766667,RFA,,,0,41,41,True
 Jonas Rondbjerg RW,3 RFA,"","RW",Minor,23,0.766667,0.766667,0.766667,RFA,,,0,30,30,True
 Joseph Woll G,3 RFA,"","G",Minor,24,0.766667,0.766667,0.766667,RFA,,,0,4,4,True
 Semyon Der-Arguchintsev C,1 RFA,"ELC","C",Minor,21,0.766667,RFA,,,,,,,,True
@@ -1230,6 +1232,7 @@ Joey Daccord G,1 RFA,"","G",Minor,25,0.75,RFA,,,,,0,14,14,True
 William Lockwood RW,1 RFA,"","RW",Minor,24,0.75,RFA,,,,,0,15,15,True
 Bokondji Imama LW,1 RFA,"","LW",Minor,26,0.75,RFA,,,,,0,4,4,True
 Ivan Prosvetov G,1 RFA,"","G",Minor,23,0.75,RFA,,,,,0,6,6,True
+Philipp Kurashev LW,1 RFA,"","LW, C",NHL,22,0.75,RFA,,,,,0,121,121,False
 Callahan Burke C,1 RFA,"","C, RW",Minor,25,0.75,RFA,,,,,0,0,0,True
 Marian Studenic LW,1 RFA,"","LW, RW",NHL,23,0.75,RFA,,,,,0,41,41,True
 Nicholas Caamano LW,1 RFA,"","LW, RW",Minor,23,0.75,RFA,,,,,0,36,36,True
@@ -1378,7 +1381,7 @@ Darren Raddysh D,2 UFA,"","RD",Minor,26,0.648125,0.648125,UFA,,,,0,4,4,True
 Markus Niemelainen D,2 RFA,"","LD",Minor,24,0.648125,0.648125,RFA,,,,0,20,20,True
 Jacob Moverare D,2 RFA,"","LD",NHL,23,0.648125,0.648125,RFA,,,,0,19,19,True
 Daniil Miromanov D,2 RFA,"","RD",Minor,25,0.648125,0.648125,RFA,,,,0,11,11,True
-Kyle Capobianco D,2 RFA,"","LD",Minor,24,0.648125,0.648125,RFA,,,,0,59,59,True
+Kyle Capobianco D,2 RFA,"","LD",Minor,25,0.648125,0.648125,RFA,,,,0,59,59,True
 Lucas Johansen D,2 RFA,"","LD",Minor,24,0.648125,0.648125,RFA,,,,0,1,1,True
 Matt Kiersted D,2 RFA,"","LD",Minor,24,0.648125,0.648125,RFA,,,,0,17,17,True
 Brady Keeper D,1 UFA,"","RD",IR,26,0.648125,UFA,,,,,0,2,2,True
@@ -1463,10 +1466,7 @@ Jonah Gadjovich LW,0 RFA,"","LW, RW",NHL,23,RFA,,,,,,0,44,44,True
 Noah Gregor LW,0 RFA,"","LW, RW",NHL,24,RFA,,,,,,0,121,121,False
 Cale Fleury D,0 RFA,"","RD",Minor,23,RFA,,,,,,0,50,50,True
 Nicolas Hague D,0 RFA,"","LD",IR,23,RFA,,,,,,0,142,142,False
-Jake Leschyshyn C,0 RFA,"","C",Minor,23,RFA,,,,,,0,41,41,True
 Barrett Hayton C,0 RFA,"","C, LW",NHL,22,RFA,,,,,,0,94,94,False
-Philipp Kurashev LW,0 RFA,"","LW, C",NHL,22,RFA,,,,,,0,121,121,False
-Caleb Jones D,0 RFA,"","LD",NHL,25,RFA,,,,,,0,144,144,False
 Shane Bowers C,0 RFA,"","C",Minor,23,RFA,,,,,,0,0,0,True
 Jason Robertson LW,0 RFA,"","LW, RW",NHL,23,RFA,,,,,,0,128,128,False
 Jake Oettinger G,0 RFA,"","G",NHL,23,RFA,,,,,,0,77,77,True
