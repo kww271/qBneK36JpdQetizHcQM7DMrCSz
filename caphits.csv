@@ -52,6 +52,7 @@ Darnell Nurse D,8 UFA,"NMC","LD",NHL,27,7.8625,7.8625,7.8625,7.8625,7.8625,7.862
 Evgeny Kuznetsov C,3 UFA,"M-NTC","C",NHL,30,7.8,7.8,7.8,UFA,,,,,,False
 Sean Couturier C,8 UFA,"NMC","C",IR,29,7.75,7.75,7.75,7.75,7.75,7.75,,,,False
 Andrei Svechnikov LW,7 UFA,"","LW, RW",NHL,22,7.75,7.75,7.75,7.75,7.75,7.75,0,283,283,False
+Jason Robertson LW,4 RFA,"","LW, RW",NHL,23,7.75,7.75,7.75,7.75,RFA,,0,128,128,False
 Roman Josi D,6 UFA,"NMC","LD",NHL,32,7.70015,7.70015,7.70015,7.70015,7.70015,7.70015,,,,False
 Dougie Hamilton D,6 UFA,"NMC","RD",NHL,29,7.65,7.65,7.65,7.65,7.65,7.65,,,,False
 Cale Makar D,5 UFA,"","RD",NHL,23,7.65,7.65,7.65,7.65,7.65,UFA,0,178,178,False
@@ -1520,7 +1521,6 @@ Victor Mete D,1 RFA,"","LD/RD",Minor,24,0.6375,RFA,,,,,0,236,236,False
 Jeremy Groleau D,1 RFA,"ELC","LD",Minor,22,0.634667,RFA,,,,,,,,True
 Alexandre Carrier D,1 RFA,"","RD",NHL,25,0.623333,RFA,,,,,0,101,101,False
 Nicolas Hague D,0 RFA,"","LD",IR,23,RFA,,,,,,0,142,142,False
-Jason Robertson LW,0 RFA,"","LW, RW",NHL,23,RFA,,,,,,0,128,128,False
 Alex Formenton LW,0 RFA,"","LW",NHL,23,RFA,,,,,,0,109,109,False
 Josh Healey D,0 UFA,"","D",PTO,28,PTO,,,,,,0,0,0,True
 Rocco Grimaldi LW,0 UFA,"","LW, RW",PTO,29,PTO,,,,,,0,203,203,False
