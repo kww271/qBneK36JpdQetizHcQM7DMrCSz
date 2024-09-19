@@ -722,7 +722,7 @@ Lucas Edmonds RW,,"","RW",shootsr,23,0.95,RFA,,,,,,,,True
 Kyle Burroughs D,,"","D",shootsr,29,0.935,0.935,UFA,,,,,,,True
 Travis Hamonic D,,"","D",shootsr,34,0.935,UFA,,,,,,,,True
 Urho Vaakanainen D,,"","D",shootsl,25,0.935,RFA,UFA,,,,,,,True
-Conor Timmins D,,"","D",shootsr,25,0.935,RFA,UFA,,,,,,,True
+Conor Timmins D,,"","D",shootsr,26,0.935,RFA,UFA,,,,,,,True
 William Stromgren LW,,"","LW",shootsl,21,0.925,0.925,RFA,,,,,,,True
 Jayden Grubbe C,,"","C",shootsr,21,0.925,0.925,RFA,,,,,,,True
 Ethan Cardwell RW,,"","RW",shootsr,22,0.925,0.925,RFA,,,,,,,True
@@ -978,6 +978,8 @@ Francesco Arcuri C,,"","C",shootsl,21,0.825,0.825,RFA,,,,,,,True
 Eric Comrie G,,"","G",posG,29,0.825,0.825,UFA,,,,,,,True
 Walker Duehr RW,,"","RW",shootsr,26,0.825,UFA,,,,,,,,True
 Pheonix Copley G,,"","G",posG,32,0.825,UFA,,,,,,,,True
+Arthur Kaliyev RW,,"","RW",shootsl,23,0.825,RFA,,,,,,,,True
+Philip Tomasino C,,"","C",shootsr,23,0.825,RFA,,,,,,,,True
 Luke Evangelista RW,,"","RW",shootsr,22,0.825,RFA,,,,,,,,True
 Nolan Foote LW,,"","LW",shootsl,23,0.825,RFA,,,,,,,,True
 Jonatan Berggren RW,,"","RW",shootsl,24,0.825,RFA,,,,,,,,True
@@ -1246,7 +1248,7 @@ Brandon Gignac C,,"","C",shootsl,26,0.775,UFA,,,,,,,,True
 Lucas Condotta C,,"","C",shootsl,26,0.775,UFA,,,,,,,,True
 Connor Hughes G,,"","G",posG,28,0.775,UFA,,,,,,,,True
 Matthew Highmore C,,"","C",shootsl,28,0.775,UFA,,,,,,,,True
-Adam Gaudette C,,"","C",shootsr,27,0.775,UFA,,,,,,,,True
+Adam Gaudette RW,,"","RW",shootsr,27,0.775,UFA,,,,,,,,True
 Hayden Hodgson RW,,"","RW",shootsr,28,0.775,UFA,,,,,,,,True
 Jonas Johansson G,,"","G",posG,28,0.775,UFA,,,,,,,,True
 Matt Tomkins G,,"","G",posG,30,0.775,UFA,,,,,,,,True
@@ -1398,6 +1400,7 @@ Adam Ginning D,,"","D",shootsl,24,0.669375,0.669375,RFA,UFA,,,,,,True
 Joel Hanley D,,"","D",shootsl,33,0.669375,UFA,,,,,,,,True
 Ben Harpur D,,"","D",shootsl,29,0.669375,UFA,,,,,,,,True
 Akito Hirose D,,"","D",shootsl,25,0.669375,RFA,UFA,,,,,,,True
+Ilya Solovyov D,,"","D",shootsl,24,0.65875,0.65875,RFA,,,,,,,True
 Cam Dineen D,,"","D",shootsl,26,0.65875,0.65875,UFA,,,,,,,True
 Jacob Moverare D,,"","D",shootsl,26,0.65875,0.65875,UFA,,,,,,,True
 Jacob MacDonald D,,"","D",shootsl,31,0.65875,0.65875,UFA,,,,,,,True
@@ -1544,6 +1547,10 @@ Matt Luff RW,,"","RW",shootsr,27,UFA,,,,,,,,,True
 Max Pacioretty LW,,"","LW",shootsl,35,UFA,,,,,,,,,True
 Rocco Grimaldi C,,"","C",shootsr,31,UFA,,,,,,,,,True
 Jon Gillies G,,"","G",posG,30,UFA,,,,,,,,,True
+Mike Hoffman LW,,"","LW",shootsl,34,UFA,,,,,,,,,True
+Matthew Peca C,,"","C",shootsl,31,UFA,,,,,,,,,True
+Scott Harrington D,,"","D",shootsl,31,UFA,,,,,,,,,True
+Alex Chiasson RW,,"","RW",shootsr,33,UFA,,,,,,,,,True
 Eetu Tuulola RW,,"","RW",shootsr,26,RFA,UFA,,,,,,,,True
 Carl-Johan Lerby D,,"","D",shootsl,27,RFA,UFA,,,,,,,,True
 Josef Korenar G,,"","G",posG,26,RFA,UFA,,,,,,,,True
@@ -1554,10 +1561,8 @@ Henrik Borgstrom C,,"","C",shootsl,27,RFA,UFA,,,,,,,,True
 Arttu Ruotsalainen C,,"","C",shootsl,26,RFA,UFA,,,,,,,,True
 Vitaly Abramov RW,,"","RW",shootsl,26,RFA,UFA,,,,,,,,True
 Simon Ryfors C,,"","C",shootsl,27,RFA,UFA,,,,,,,,True
-Ilya Solovyov D,,"","D",shootsl,24,RFA,,,,,,,,,True
 Cole Schwindt C,,"","C",shootsr,23,RFA,,,,,,,,,True
 Nikita Okhotyuk D,,"","D",shootsl,23,RFA,,,,,,,,,True
-Arthur Kaliyev RW,,"","RW",shootsl,23,RFA,,,,,,,,,True
 Alexander Chmelevski C,,"","C",shootsr,25,RFA,,UFA,,,,,,,True
 Martin Kaut RW,,"","RW",shootsr,24,RFA,,,UFA,,,,,,True
 Egor Afanasyev LW,,"","LW",shootsl,23,RFA,,,,,,,,,True
@@ -1565,7 +1570,6 @@ Peetro Seppala D,,"","D",shootsl,24,RFA,,,,,,,,,True
 Vitali Kravtsov RW,,"","RW",shootsl,24,RFA,,,UFA,,,,,,True
 Ivan Morozov C,,"","C",shootsr,24,RFA,,,UFA,,,,,,True
 Sampo Ranta LW,,"","LW",shootsl,24,RFA,,,UFA,,,,,,True
-Philip Tomasino C,,"","C",shootsr,23,RFA,,,,,,,,,True
 Nikita Alexandrov C,,"","C",shootsl,24,RFA,,,,,,,,,True
 Mikhail Abramov C,,"","C",shootsl,23,RFA,,,,,,,,,True
 Victor Soderstrom D,,"","D",shootsr,23,RFA,,,,,,,,,True
@@ -1590,3 +1594,4 @@ Waltteri Merela RW,,"","RW",shootsr,26,RFA,,UFA,,,,,,,True
 Hugo Alnefelt G,,"","G",posG,23,RFA,,,,,,,,,True
 Semyon Der-Arguchintsev C,,"","C",shootsr,24,RFA,,,,,,,,,True
 Sergei Boikov D,,"","D",shootsl,28,RFA,,,,,,,,,True
+Sam Bitten C,,"","C",shootsl,24,,,UFA,,,,,,,True
