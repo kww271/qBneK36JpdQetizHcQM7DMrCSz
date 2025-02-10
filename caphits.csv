@@ -58,7 +58,7 @@ Charlie McAvoy D,,"","D",shotr,27,8.075,8.075,8.075,8.075,,,,,,True
 Lucas Raymond RW,,"","RW",shotr,22,8.075,8.075,8.075,8.075,,,,,,True
 Logan Couture C,,"","C",IR,35,8.0,8.0,8.0,UFA,,,,,,True
 J.T. Miller C,,"","C",shotl,31,8.0,8.0,8.0,8.0,,,,,,True
-Steven Stamkos C,,"","C",shotr,34,8.0,8.0,8.0,8.0,,,,,,True
+Steven Stamkos C,,"","C",shotr,35,8.0,8.0,8.0,8.0,,,,,,True
 Jack Hughes C,,"","C",shotl,23,8.0,8.0,8.0,8.0,,,,,,True
 Ryan Johansen C,,"","C",IR,32,8.0,UFA,,,,,,,,True
 Joshua Norris C,,"","C",shotl,25,7.95,7.95,7.95,7.95,,,,,,True
@@ -86,7 +86,7 @@ Kevin Hayes C,,"","C",shotl,32,7.142858,7.142858,UFA,,,,,,,True
 Matthew Beniers C,,"","C",shotl,22,7.142857,7.142857,7.142857,7.142857,,,,,,True
 Kyle Connor LW,,"","LW",shotl,28,7.142857,7.142857,UFA,,,,,,,True
 Tage Thompson C,,"","C",shotr,27,7.142857,7.142857,7.142857,7.142857,,,,,,True
-Dylan Cozens C,,"","C",shotr,23,7.1,7.1,7.1,7.1,,,,,,True
+Dylan Cozens C,,"","C",shotr,24,7.1,7.1,7.1,7.1,,,,,,True
 Owen Power D,,"","D",shotl,22,7.0975,7.0975,7.0975,7.0975,,,,,,True
 Troy Terry C,,"","C",shotr,27,7.0,7.0,7.0,7.0,,,,,,True
 Nazem Kadri C,,"","C",shotl,34,7.0,7.0,7.0,7.0,,,,,,True
@@ -115,7 +115,7 @@ Claude Giroux C,,"","C",shotr,37,6.5,UFA,,,,,,,,True
 Jared Spurgeon D,,"","D",shotr,35,6.43875,6.43875,6.43875,UFA,,,,,,True
 John Gibson L,,"","L",catchesL,31,6.4,6.4,6.4,UFA,,,,,,True
 Morgan Rielly D,,"","D",shotl,30,6.375,6.375,6.375,6.375,,,,,,True
-Aaron Ekblad D,,"","D",shotr,28,6.375,UFA,,,,,,,,True
+Aaron Ekblad D,,"","D",shotr,29,6.375,UFA,,,,,,,,True
 Alex Killorn C,,"","C",shotl,35,6.25,6.25,6.25,UFA,,,,,,True
 Quinton Byfield C,,"","C",shotl,22,6.25,6.25,6.25,6.25,,,,,,True
 Chandler Stephenson C,,"","C",shotl,30,6.25,6.25,6.25,6.25,,,,,,True
@@ -139,7 +139,7 @@ Brock Nelson C,,"","C",shotl,33,6.0,UFA,,,,,,,,True
 Marc-Edouard Vlasic D,,"","D",shotl,37,5.95,5.95,UFA,,,,,,,True
 Brady Skjei D,,"","D",shotl,30,5.95,5.95,5.95,5.95,,,,,,True
 Philipp Grubauer L,,"","L",catchesL,33,5.9,5.9,5.9,UFA,,,,,,True
-William Karlsson C,,"","C",IR,32,5.9,5.9,5.9,UFA,,,,,,True
+William Karlsson C,,"","C",LTIR,32,5.9,5.9,5.9,UFA,,,,,,True
 Nick Schmaltz C,,"","C",shotr,28,5.85,5.85,UFA,,,,,,,True
 Pavel Buchnevich C,,"","C",shotl,29,5.8,8.0,8.0,8.0,,,,,,True
 Andrew Mangiapane C,,"","C",shotl,28,5.8,UFA,,,,,,,,True
@@ -161,13 +161,13 @@ Zach Hyman C,,"","C",shotr,32,5.5,5.5,5.5,5.5,,,,,,True
 Phillip Danault C,,"","C",shotl,31,5.5,5.5,5.5,UFA,,,,,,True
 Adrian Kempe C,,"","C",shotl,28,5.5,5.5,UFA,,,,,,,True
 Jaden Schwartz LW,,"","LW",shotl,32,5.5,5.5,UFA,,,,,,,True
-Andre Burakovsky LW,,"","LW",shotl,29,5.5,5.5,5.5,UFA,,,,,,True
+Andre Burakovsky LW,,"","LW",shotl,30,5.5,5.5,5.5,UFA,,,,,,True
 Jake DeBrusk LW,,"","LW",shotl,28,5.5,5.5,5.5,5.5,,,,,,True
 Tyler Bertuzzi LW,,"","LW",shotl,29,5.5,5.5,5.5,5.5,,,,,,True
 Jonathan Marchessault LW,,"","LW",shotr,34,5.5,5.5,5.5,5.5,,,,,,True
 Sean Monahan C,,"","C",IR,30,5.5,5.5,5.5,5.5,,,,,,True
 Josh Anderson RW,,"","RW",shotr,30,5.5,5.5,5.5,UFA,,,,,,True
-Andrei Kuzmenko LW,,"","LW",IR,29,5.5,UFA,,,,,,,,True
+Andrei Kuzmenko LW,,"","LW",shotr,29,5.5,UFA,,,,,,,,True
 Oliver Bjorkstrand RW,,"","RW",shotr,29,5.4,5.4,UFA,,,,,,,True
 Teuvo Teravainen C,,"","C",shotl,30,5.4,5.4,5.4,UFA,,,,,,True
 Elvis Merzlikins L,,"","L",catchesL,30,5.4,5.4,5.4,UFA,,,,,,True
@@ -187,10 +187,10 @@ Kris Letang D,,"","D",shotr,37,5.185,5.185,5.185,5.185,,,,,,True
 Yanni Gourde C,,"","C",IR,33,5.166667,UFA,,,,,,,,True
 Evander Kane LW,,"","LW",LTIR,33,5.125,5.125,UFA,,,,,,,True
 Ryan Nugent-Hopkins C,,"","C",shotl,31,5.125,5.125,5.125,5.125,,,,,,True
-Bryan Rust RW,,"","RW",shotr,32,5.125,5.125,5.125,5.125,,,,,,True
+Bryan Rust RW,,"","RW",IR,32,5.125,5.125,5.125,5.125,,,,,,True
 Jonas Brodin D,,"","D",shotl,31,5.1,5.1,5.1,5.1,,,,,,True
 Sean Durzi D,,"","D",IR,26,5.1,5.1,5.1,5.1,,,,,,True
-J.T. Compher C,,"","C",IR,29,5.1,5.1,5.1,5.1,,,,,,True
+J.T. Compher C,,"","C",shotr,29,5.1,5.1,5.1,5.1,,,,,,True
 Linus Ullmark L,,"","L",catchesL,31,5.0,8.25,8.25,8.25,,,,,,True
 Juuse Saros L,,"","L",catchesL,29,5.0,7.74,7.74,7.74,,,,,,True
 Ryan Strome C,,"","C",shotr,31,5.0,5.0,5.0,UFA,,,,,,True
@@ -233,7 +233,7 @@ Mikael Backlund C,,"","C",shotl,35,4.5,4.5,UFA,,,,,,,True
 Nick Foligno LW,,"","LW",shotl,37,4.5,4.5,UFA,,,,,,,True
 Artturi Lehkonen LW,,"","LW",shotl,29,4.5,4.5,4.5,UFA,,,,,,True
 Mason Marchment LW,,"","LW",shotl,29,4.5,4.5,UFA,,,,,,,True
-Ryan O'Reilly C,,"","C",shotl,33,4.5,4.5,4.5,UFA,,,,,,True
+Ryan O'Reilly C,,"","C",shotl,34,4.5,4.5,4.5,UFA,,,,,,True
 Michael Bunting LW,,"","LW",shotl,29,4.5,4.5,UFA,,,,,,,True
 Spencer Knight L,,"","L",catchesL,23,4.5,4.5,RFA,,,,,,,True
 Macklin Celebrini C,,"","C",shotl,18,4.475,4.475,4.475,RFA,,,,,,True
@@ -299,7 +299,7 @@ Mattias Samuelsson D,,"","D",IR,24,3.642857,3.642857,3.642857,3.642857,,,,,,True
 Barclay Goodrow C,,"","C",shotl,31,3.641667,3.641667,3.641667,UFA,,,,,,True
 Artyom Levshunov D,,"","D",shotr,19,3.59125,3.59125,3.59125,RFA,,,,,,True
 Simon Nemec D,,"","D",shotr,20,3.543083,3.543083,RFA,,,,,,,True
-Mikey Anderson D,,"","D",shotl,25,3.50625,3.50625,3.50625,3.50625,,,,,,True
+Mikey Anderson D,,"","D",IR,25,3.50625,3.50625,3.50625,3.50625,,,,,,True
 Warren Foegele LW,,"","LW",shotl,28,3.5,3.5,3.5,UFA,,,,,,True
 Yakov Trenin C,,"","C",shotl,28,3.5,3.5,3.5,3.5,,,,,,True
 Thomas Novak C,,"","C",shotl,27,3.5,3.5,3.5,UFA,,,,,,True
@@ -362,13 +362,13 @@ Jordan Greenway LW,,"","LW",IR,27,3.0,UFA,,,,,,,,True
 Scott Mayfield D,,"","D",IR,32,2.975,2.975,2.975,2.975,,,,,,True
 Oliver Ekman-Larsson D,,"","D",shotl,33,2.975,2.975,2.975,2.975,,,,,,True
 David Savard D,,"","D",shotr,34,2.975,UFA,,,,,,,,True
-Mathieu Joseph RW,,"","RW",shotl,27,2.95,2.95,UFA,,,,,,,True
+Mathieu Joseph RW,,"","RW",shotl,28,2.95,2.95,UFA,,,,,,,True
 Jordan Staal C,,"","C",shotl,36,2.9,2.9,2.9,UFA,,,,,,True
 Alex Newhook C,,"","C",shotl,24,2.9,2.9,2.9,RFA,,,,,,True
 Jake Walman D,,"","D",shotl,28,2.89,2.89,UFA,,,,,,,True
 Jonas Siegenthaler D,,"","D",shotl,27,2.89,2.89,2.89,2.89,,,,,,True
 Justin Holl D,,"","D",shotr,33,2.89,2.89,UFA,,,,,,,True
-Janis Jerôme Moser D,,"","D",IR,24,2.86875,2.86875,RFA,UFA,,,,,,True
+Janis Jerôme Moser D,,"","D",shotl,24,2.86875,2.86875,RFA,UFA,,,,,,True
 Colton Sissons C,,"","C",shotr,31,2.857143,2.857143,UFA,,,,,,,True
 Connor Clifton D,,"","D",shotr,29,2.833333,2.833333,UFA,,,,,,,True
 Jack Roslovic C,,"","C",shotr,28,2.8,UFA,,,,,,,,True
@@ -457,7 +457,7 @@ Nico Sturm C,,"","C",IR,29,2.0,UFA,,,,,,,,True
 Ryan Donato C,,"","C",shotl,28,2.0,UFA,,,,,,,,True
 Marcus Johansson C,,"","C",shotl,34,2.0,UFA,,,,,,,,True
 Vladislav Namestnikov C,,"","C",shotl,32,2.0,UFA,,,,,,,,True
-Klim Kostin C,,"","C",IR,25,2.0,RFA,UFA,,,,,,,True
+Klim Kostin C,,"","C",shotl,25,2.0,RFA,UFA,,,,,,,True
 Morgan Geekie C,,"","C",shotr,26,2.0,RFA,UFA,,,,,,,True
 Berkly Catton C,,"","C",shotl,19,1.975,1.975,1.975,RFA,,,,,,True
 Tij Iginla LW,,"","LW",shotl,18,1.975,1.975,1.975,RFA,,,,,,True
@@ -528,7 +528,7 @@ Simon Edvinsson D,,"","D",shotl,22,1.482542,1.482542,RFA,,,,,,,True
 Jett Luchanko C,,"","C",shotr,18,1.475,1.475,1.475,RFA,,,,,,True
 Terik Parascak RW,,"","RW",shotr,18,1.475,1.475,1.475,RFA,,,,,,True
 Michael Brandsegg-Nygard RW,,"","RW",shotr,19,1.475,1.475,1.475,RFA,,,,,,True
-Brandt Clarke D,,"","D",shotr,21,1.456334,1.456334,RFA,,,,,,,True
+Brandt Clarke D,,"","D",shotr,22,1.456334,1.456334,RFA,,,,,,,True
 Mattias Janmark C,,"","C",shotl,32,1.45,1.45,1.45,UFA,,,,,,True
 Brayden Yager C,,"","C",shotr,20,1.45,1.45,1.45,RFA,,,,,,True
 Samuel Ersson L,,"","L",catchesL,25,1.45,1.45,RFA,UFA,,,,,,True
@@ -597,7 +597,7 @@ Brad Lambert C,,"","C",shotr,21,1.136666,1.136666,1.136666,RFA,,,,,,True
 Lane Hutson D,,"","D",shotl,20,1.133333,1.133333,RFA,,,,,,,True
 Nathan Gaucher C,,"","C",shotr,21,1.129166,1.129166,1.129166,RFA,,,,,,True
 Christian Fischer RW,,"","RW",shotr,27,1.125,UFA,,,,,,,,True
-Hendrix Lapierre C,,"","C",shotl,22,1.105834,RFA,,,,,,,,True
+Hendrix Lapierre C,,"","C",shotl,23,1.105834,RFA,,,,,,,,True
 Arber Xhekaj D,,"","D",shotl,24,1.105,1.105,RFA,,,,,,,True
 Shakir Mukhamadullin D,,"","D",shotl,23,1.100042,RFA,,,,,,,,True
 Nils Hoglander LW,,"","LW",shotl,24,1.1,3.0,3.0,3.0,,,,,,True
@@ -879,7 +879,7 @@ Tanner Howe LW,,"","LW",shotl,19,0.875,0.875,0.875,RFA,,,,,,True
 Riley Kidney C,,"","C",shotl,21,0.875,0.875,RFA,,,,,,,True
 Nikita Grebenkin LW,,"","LW",shotl,21,0.875,0.875,RFA,,,,,,,True
 Jacob Quillan C,,"","C",shotl,23,0.875,0.875,RFA,,,,,,,True
-Juha Jaaska LW,,"","LW",shotl,26,0.875,UFA,,,,,,,,True
+Juha Jaaska LW,,"","LW",shotl,27,0.875,UFA,,,,,,,,True
 Matt Murray L,,"","L",catchesL,30,0.875,UFA,,,,,,,,True
 Matt Martin LW,,"","LW",shotl,35,0.875,UFA,,,,,,,,True
 Kevin Lankinen L,,"","L",catchesL,29,0.875,UFA,,,,,,,,True
@@ -948,14 +948,14 @@ James Malatesta LW,,"","LW",shotl,21,0.85,0.85,RFA,,,,,,,True
 Dylan Roobroeck C,,"","C",shotl,20,0.85,0.85,0.85,RFA,,,,,,True
 A.J. Greer LW,,"","LW",shotl,28,0.85,0.85,UFA,,,,,,,True
 Zemgus Girgensons C,,"","C",shotl,31,0.85,0.85,0.85,UFA,,,,,,True
-Declan Chisholm D,,"","D",shotl,25,0.85,UFA-Group6,,UFA,,,,,,True
 Andreas Englund D,,"","D",shotl,29,0.85,UFA,,,,,,,,True
-Brendan Smith D,,"","D",shotl,35,0.85,UFA,,,,,,,,True
+Brendan Smith D,,"","D",shotl,36,0.85,UFA,,,,,,,,True
 Erik Johnson D,,"","D",shotr,36,0.85,UFA,,,,,,,,True
 Colin White C,,"","C",shotr,28,0.85,UFA,,,,,,,,True
 Benjamin Kraws L,,"","L",catchesL,24,0.85,RFA,,,,,,,,True
+Declan Chisholm D,,"","D",shotl,25,0.85,RFA,,UFA,,,,,,True
 Simon Holmstrom RW,,"","RW",shotl,23,0.85,RFA,,,,,,,,True
-Tyson Kozak C,,"","C",IR,22,0.85,RFA,,,,,,,,True
+Tyson Kozak C,,"","C",shotl,22,0.85,RFA,,,,,,,,True
 Noah Gregor C,,"","C",LTIR,26,0.85,RFA,UFA,,,,,,,True
 Isaiah Saville R,,"","R",catchesR,24,0.849667,RFA,,,,,,,,True
 Rory Kerins C,,"","C",shotl,22,0.846667,RFA,,,,,,,,True
@@ -1002,7 +1002,7 @@ Jakub Brabenec LW,,"","LW",shotl,21,0.828333,0.828333,RFA,,,,,,,True
 Mathieu Cataford RW,,"","RW",shotr,19,0.828333,0.828333,0.828333,RFA,,,,,,True
 Joshua Davies LW,,"","LW",shotl,20,0.828333,0.828333,0.828333,RFA,,,,,,True
 Jacob Melanson RW,,"","RW",shotr,21,0.826111,0.826111,RFA,,,,,,,True
-Nils Aman C,,"","C",shotl,24,0.825,0.825,RFA,UFA,,,,,,True
+Nils Aman C,,"","C",shotl,25,0.825,0.825,RFA,UFA,,,,,,True
 Ty Young L,,"","L",catchesL,20,0.825,0.825,0.825,RFA,,,,,,True
 Parker Kelly LW,,"","LW",shotl,25,0.825,0.825,UFA,,,,,,,True
 Francesco Arcuri C,,"","C",shotl,21,0.825,0.825,RFA,,,,,,,True
@@ -1071,7 +1071,7 @@ Ty Voit C,,"","C",shotr,21,0.800556,0.800556,RFA,,,,,,,True
 Braeden Kressler C,,"","C",shotr,22,0.800556,0.800556,RFA,,,,,,,True
 Andrew Poturalski C,,"","C",shotr,31,0.8,0.8,UFA,,,,,,,True
 Joey Anderson RW,,"","RW",shotr,26,0.8,0.8,UFA,,,,,,,True
-Mark Jankowski C,,"","C",shotl,30,0.8,0.8,UFA,,,,,,,True
+Mark Jankowski C,,"","C",IR,30,0.8,0.8,UFA,,,,,,,True
 Jon-Randall Avon C,,"","C",shotl,21,0.8,0.8,RFA,,,,,,,True
 Mitchell Chaffee RW,,"","RW",shotr,27,0.8,0.8,UFA,,,,,,,True
 Trevor Lewis C,,"","C",shotr,38,0.8,UFA,,,,,,,,True
@@ -1084,7 +1084,7 @@ Tyler Motte C,,"","C",shotl,29,0.8,UFA,,,,,,,,True
 Luke Glendening C,,"","C",shotr,35,0.8,UFA,,,,,,,,True
 Michael Eyssimont C,,"","C",shotl,28,0.8,UFA,,,,,,,,True
 Nick Cousins C,,"","C",shotl,31,0.8,UFA,,,,,,,,True
-Jakob Pelletier LW,,"","LW",IR,23,0.8,RFA,,,,,,,,True
+Jakob Pelletier LW,,"","LW",shotl,23,0.8,RFA,,,,,,,,True
 Cole Schwindt RW,,"","RW",IR,23,0.8,RFA,,,,,,,,True
 Graeme Clarke RW,,"","RW",shotr,23,0.8,RFA,,,,,,,,True
 Pontus Holmberg C,,"","C",shotl,25,0.8,RFA,UFA,,,,,,,True
@@ -1153,7 +1153,7 @@ Brendan Gaunce C,,"","C",shotl,30,0.775,0.775,UFA,,,,,,,True
 Ben Jones C,,"","C",shotl,25,0.775,0.775,UFA,,,,,,,True
 Vinnie Hinostroza RW,,"","RW",shotr,30,0.775,0.775,UFA,,,,,,,True
 Jake Lucchini C,,"","C",shotl,29,0.775,0.775,UFA,,,,,,,True
-Nathan Walker LW,,"","LW",shotl,30,0.775,0.775,UFA,,,,,,,True
+Nathan Walker LW,,"","LW",shotl,31,0.775,0.775,UFA,,,,,,,True
 Hugh McGing LW,,"","LW",shotl,26,0.775,0.775,UFA,,,,,,,True
 Andrew Agozzino LW,,"","LW",shotl,34,0.775,0.775,UFA,,,,,,,True
 Curtis Douglas C,,"","C",shotl,24,0.775,0.775,RFA,UFA,,,,,,True
@@ -1464,6 +1464,7 @@ Keaton Middleton D,,"","D",shotl,26,0.65875,0.65875,0.65875,UFA,,,,,,True
 Alexander Petrovic D,,"","D",shotr,32,0.65875,0.65875,UFA,,,,,,,True
 Kyle Capobianco D,,"","D",shotl,27,0.65875,0.65875,UFA,,,,,,,True
 Kevin Gravel D,,"","D",shotl,32,0.65875,0.65875,UFA,,,,,,,True
+Adam Wilsby D,,"","D",shotl,24,0.65875,0.65875,0.65875,RFA,,,,,,True
 Nick Blankenburg D,,"","D",shotr,26,0.65875,0.65875,UFA,,,,,,,True
 Corey Schueneman D,,"","D",shotl,29,0.65875,0.65875,UFA,,,,,,,True
 Vladislav Kolyachonok D,,"","D",shotl,23,0.65875,0.65875,RFA,,,,,,,True
@@ -1496,12 +1497,12 @@ Caleb Jones D,,"","D",shotl,27,0.65875,UFA,,,,,,,,True
 Josh Mahura D,,"","D",shotl,26,0.65875,UFA,,,,,,,,True
 Gustav Olofsson D,,"","D",shotl,30,0.65875,UFA,,,,,,,,True
 Maxime Lajoie D,,"","D",shotl,27,0.65875,UFA,,,,,,,,True
-Nikolas Brouillard D,,"","D",shotl,29,0.65875,UFA,,,,,,,,True
+Nikolas Brouillard D,,"","D",shotl,30,0.65875,UFA,,,,,,,,True
 Noah Juulsen D,,"","D",shotr,27,0.65875,UFA,,,,,,,,True
 Mark Friedman D,,"","D",shotr,29,0.65875,UFA,,,,,,,,True
 Guillaume Brisebois D,,"","D",shotl,27,0.65875,UFA,,,,,,,,True
 Christian Wolanin D,,"","D",shotl,29,0.65875,UFA,,,,,,,,True
-Robert Hagg D,,"","D",shotl,29,0.65875,UFA,,,,,,,,True
+Robert Hagg D,,"","D",shotl,30,0.65875,UFA,,,,,,,,True
 Calle Rosen D,,"","D",shotl,31,0.65875,UFA,,,,,,,,True
 Jack Ahcan D,,"","D",shotl,27,0.65875,UFA,,,,,,,,True
 Wyatt Aamodt D,,"","D",shotl,27,0.65875,UFA,,,,,,,,True
@@ -1543,7 +1544,6 @@ Jett Woo D,,"","D",shotr,24,0.65875,RFA,,,,,,,,True
 Cole McWard D,,"","D",shotr,23,0.65875,RFA,,,,,,,,True
 Isaak Phillips D,,"","D",shotl,23,0.65875,RFA,,,,,,,,True
 Louis Crevier D,,"","D",IR,23,0.65875,RFA,,,,,,,,True
-Adam Wilsby D,,"","D",shotl,24,0.65875,RFA,,,,,,,,True
 Hunter Skinner D,,"","D",shotr,23,0.65875,RFA,,,,,,,,True
 Simon Lundmark D,,"","D",shotr,24,0.65875,RFA,,,,,,,,True
 Ty Smith D,,"","D",shotl,24,0.65875,RFA,,UFA,,,,,,True
